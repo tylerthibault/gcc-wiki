@@ -3,7 +3,7 @@ title:
 publish: true
 ---
 this is a test
-
+![[image-2.png]]
 # ProPresenter
 
 Audience: volunteers / operators preparing lyric slides + playlists in ProPresenter.
