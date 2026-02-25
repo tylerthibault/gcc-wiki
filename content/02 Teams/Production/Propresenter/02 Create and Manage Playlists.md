@@ -2,7 +2,7 @@
 title:
 publish: true
 ---
-a test!!###@@@
+a test!
 ## Goal
 Create playlists for practice sets and services so operators can quickly load the correct song order.
 
