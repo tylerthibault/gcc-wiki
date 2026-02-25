@@ -1,6 +1,6 @@
 ---
 title: Markdown Guide
-publish: true
+publish: false
 ---
 
 This is a quick reference for formatting your wiki pages. Markdown is just plain text with a few simple symbols that control how things look.
