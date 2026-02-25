@@ -1,0 +1,5 @@
+[phases.build]
+cmds = ["npx quartz build"]
+
+[start]
+cmd = "node_modules/.bin/serve public -l 3000 -s"

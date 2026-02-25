@@ -20,6 +20,3 @@ This is the internal knowledge base for Grace City Church staff and volunteers. 
 Use the search bar or explore the sidebar to find what you're looking for. If you can't find something, reach out to your team lead.
 
 > This wiki is for internal use only. Please do not share links externally without approval.
-
-
-this is a change
