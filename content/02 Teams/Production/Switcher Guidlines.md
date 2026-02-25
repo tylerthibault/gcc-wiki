@@ -1,12 +1,12 @@
 ---
-title: "SOP Title"
+title: SOP Title
 description: ""
 tags:
   - sop
 author: ""
-created: 
-updated: 
-publish: true
+created:
+updated:
+publish: false
 ---
 
 ## Purpose
