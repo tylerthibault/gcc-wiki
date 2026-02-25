@@ -2,4 +2,4 @@
 cmds = ["npx quartz build"]
 
 [start]
-cmd = "node_modules/.bin/serve public -l 3000 -s"
+cmd = "node_modules/.bin/serve public -l tcp://0.0.0.0:3000 -s"
