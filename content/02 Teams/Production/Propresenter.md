@@ -2,7 +2,7 @@
 title:
 publish: true
 ---
-# ProPresenter SOP (Draft)
+# ProPresenter
 
 Audience: volunteers / operators preparing lyric slides + playlists in ProPresenter.
 
